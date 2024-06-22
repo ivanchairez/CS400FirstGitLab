@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * Name: Ivan Chairez-Lomas
+ * Email: chairezlomas@wisc.edu
+ * cs-user: chairez-lomas
  */
 import java.util.*;
 

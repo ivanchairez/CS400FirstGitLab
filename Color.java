@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Name: Ivan Chairez-Lomas
+ *	Email: chairezlomas@wisc.edu
+ *	cs-user: chairez-lomas
  */
 public class Color{
 	private String color;
